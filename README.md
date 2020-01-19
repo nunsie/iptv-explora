@@ -13,6 +13,8 @@
 
 ### 🏠 [Homepage](https://iptv-explora.netlify.com)
 
+![img](screenshot.png)
+
 ### ✨ [Demo](https://iptv-explora.netlify.com)
 
 ## Install
@@ -37,17 +39,18 @@ yarn test
 
 👤 **Nusrath Khan**
 
-* Website: https://nusrath.com
-* Twitter: [@md5hashbrown](https://twitter.com/md5hashbrown)
-* Github: [@nunsie](https://github.com/nunsie)
+- Website: https://nusrath.com
+- Twitter: [@md5hashbrown](https://twitter.com/md5hashbrown)
+- Github: [@nunsie](https://github.com/nunsie)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/nunsie/iptv-explora/issues/new). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/nunsie/iptv-explora/issues/new).
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
