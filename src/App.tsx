@@ -148,7 +148,7 @@ const App: React.FC = () => {
   }
 
   useEffect(() => {
-    fetch('http://i.mjh.nz/za/DStv/epg.xml')
+    fetch('https://i.mjh.nz/za/DStv/epg.xml')
       .then(res => res.text())
       .then(epg => parser.parse(epg))
       .then(guide => groupChannels(guide))
